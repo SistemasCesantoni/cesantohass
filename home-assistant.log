@@ -1,0 +1,4 @@
+2017-06-14 16:30:32 ERROR (MainThread) [homeassistant.config] Invalid config for [mqtt]: [topic] is an invalid option for [mqtt]. Check: mqtt->mqtt->topic. (See /home/cesantoni/.homeassistant/configuration.yaml, line 31). Please check the docs at https://home-assistant.io/components/mqtt/
+2017-06-14 16:30:32 ERROR (MainThread) [homeassistant.setup] Setup failed for mqtt: Invalid config.
+2017-06-14 16:30:32 ERROR (MainThread) [homeassistant.setup] Unable to setup dependencies of sensor.mqtt. Setup failed for dependencies: mqtt
+2017-06-14 16:30:32 ERROR (MainThread) [homeassistant.setup] Unable to prepare setup for platform sensor.mqtt: Could not setup all dependencies.

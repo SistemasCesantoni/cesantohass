@@ -1,0 +1,594 @@
+
+yacosmbp:
+  hide_if_away: false
+  icon:
+  mac: C4:B3:01:CA:EC:CD
+  name: YACOs-MBP
+  picture:
+  track: true
+  vendor: Apple, Inc.
+
+iphonedemofelix:
+  hide_if_away: false
+  icon:
+  mac: D4:F4:6F:19:F0:7B
+  name: iPhonedemoFelix
+  picture:
+  track: true
+  vendor: Apple, Inc.
+
+android:
+  hide_if_away: false
+  icon:
+  mac: 00:7E:56:90:22:53
+  name: android-
+  picture:
+  track: true
+  vendor: China Dragon Technology Limited
+
+androidf5d67ba30d371102:
+  hide_if_away: false
+  icon:
+  mac: 5C:A8:6A:74:3B:39
+  name: android-f5d67ba30d371102
+  picture:
+  track: true
+  vendor: HUAWEI TECHNOLOGIES CO.,LTD
+
+android25b889ea82b516:
+  hide_if_away: false
+  icon:
+  mac: 2C:8A:72:76:1A:57
+  name: android-25b889ea82b516
+  picture:
+  track: true
+  vendor: HTC Corporation
+
+appletv2:
+  hide_if_away: false
+  icon:
+  mac: D0:03:4B:59:E4:9D
+  name: Apple-TV-2
+  picture:
+  track: true
+  vendor: Apple, Inc.
+
+tvbe1fb53a9adc:
+  hide_if_away: false
+  icon:
+  mac: 30:F7:72:81:42:FB
+  name: tvbe1fb53a9adc
+  picture:
+  track: true
+  vendor: Hon Hai Precision Ind. Co.,Ltd.
+
+hplc32:
+  hide_if_away: false
+  icon:
+  mac: 30:F7:72:5E:E7:BB
+  name: HP-L-C-32
+  picture:
+  track: true
+  vendor: unknown
+
+dircom:
+  hide_if_away: false
+  icon:
+  mac: 08:66:98:B1:45:85
+  name: DIR-COM
+  picture:
+  track: true
+  vendor: unknown
+
+hplc42:
+  hide_if_away: false
+  icon:
+  mac: 90:CD:B6:68:0A:2D
+  name: HP-L-C-42
+  picture:
+  track: true
+  vendor: unknown
+
+hplc21:
+  hide_if_away: false
+  icon:
+  mac: 44:1C:A8:EF:BC:E1
+  name: HP-L-C-21
+  picture:
+  track: true
+  vendor: unknown
+
+yroficina:
+  hide_if_away: false
+  icon:
+  mac: D0:03:4B:17:58:B7
+  name: YR-OFICINA
+  picture:
+  track: true
+  vendor: Apple, Inc.
+
+androida79d0472b58c21b:
+  hide_if_away: false
+  icon:
+  mac: D8:55:A3:E1:CF:52
+  name: android-a79d0472b58c21b
+  picture:
+  track: true
+  vendor: zte corporation
+
+rromero_it:
+  hide_if_away: false
+  icon:
+  mac: 48:E2:44:01:55:33
+  name: rromero it
+  picture:
+  track: true
+  vendor: Hon Hai Precision Ind. Co.,Ltd.
+
+hpla4:
+  hide_if_away: false
+  icon:
+  mac: 40:B8:9A:07:85:25
+  name: HP-L-A4
+  picture:
+  track: true
+  vendor: Hon Hai Precision Ind. Co.,Ltd.
+
+iphonedemkt:
+  hide_if_away: false
+  icon:
+  mac: F4:37:B7:40:B3:D1
+  name: iPhone-de-MKT
+  picture:
+  track: true
+  vendor: Apple, Inc.
+
+iphone:
+  hide_if_away: false
+  icon:
+  mac: AC:FD:EC:D9:99:4F
+  name: iPhone
+  picture:
+  track: true
+  vendor: Apple, Inc.
+
+android7d61c1aa35ad49c3:
+  hide_if_away: false
+  icon:
+  mac: E8:50:8B:DA:62:58
+  name: android-7d61c1aa35ad49c3
+  picture:
+  track: true
+  vendor: SAMSUNG ELECTRO-MECHANICS(THAILAND)
+
+android38fb92a4df7cb7d5:
+  hide_if_away: false
+  icon:
+  mac: A4:70:D6:B8:BE:31
+  name: android-38fb92a4df7cb7d5
+  picture:
+  track: true
+  vendor: Motorola Mobility LLC, a Lenovo Company
+
+android9b9a1b59d3aa609b:
+  hide_if_away: false
+  icon:
+  mac: 5C:A8:6A:74:3B:28
+  name: android-9b9a1b59d3aa609b
+  picture:
+  track: true
+  vendor: HUAWEI TECHNOLOGIES CO.,LTD
+
+macintosh52:
+  hide_if_away: false
+  icon:
+  mac: 14:10:9F:D0:7E:B9
+  name: Macintosh-52
+  picture:
+  track: true
+  vendor: Apple, Inc.
+
+android1802b9301da315bd:
+  hide_if_away: false
+  icon:
+  mac: 64:A6:51:4B:69:B4
+  name: android-1802b9301da315bd
+  picture:
+  track: true
+  vendor: HUAWEI TECHNOLOGIES CO.,LTD
+
+desktopej2iufg:
+  hide_if_away: false
+  icon:
+  mac: 30:F7:72:5F:93:DF
+  name: DESKTOP-EJ2IUFG
+  picture:
+  track: true
+  vendor: Hon Hai Precision Ind. Co.,Ltd.
+
+hpl02:
+  hide_if_away: false
+  icon:
+  mac: AC:D1:B8:72:70:F3
+  name: HP-L-02
+  picture:
+  track: true
+  vendor: Hon Hai Precision Ind. Co.,Ltd.
+
+androidc173f6e11b6d6806:
+  hide_if_away: false
+  icon:
+  mac: 5C:A8:6A:74:3B:56
+  name: android-c173f6e11b6d6806
+  picture:
+  track: true
+  vendor: HUAWEI TECHNOLOGIES CO.,LTD
+
+androidbe1930f52d7e8c8f:
+  hide_if_away: false
+  icon:
+  mac: 60:A4:D0:77:77:07
+  name: android-be1930f52d7e8c8f
+  picture:
+  track: true
+  vendor: Samsung Electronics Co.,Ltd
+
+android24f3b4e06a54f121:
+  hide_if_away: false
+  icon:
+  mac: 5C:A8:6A:74:3D:A9
+  name: android-24f3b4e06a54f121
+  picture:
+  track: true
+  vendor: HUAWEI TECHNOLOGIES CO.,LTD
+
+tl06:
+  hide_if_away: false
+  icon:
+  mac: AC:E0:10:FD:AA:8E
+  name: T-L-06
+  picture:
+  track: true
+  vendor: Liteon Technology Corporation
+
+slatemenudeo04:
+  hide_if_away: false
+  icon:
+  mac: 00:DB:DF:26:97:5B
+  name: slate-menudeo04
+  picture:
+  track: true
+  vendor: Intel Corporate
+
+yrciphone6mx4:
+  hide_if_away: false
+  icon:
+  mac: 18:65:90:98:67:34
+  name: YRCiPhone6MX4
+  picture:
+  track: true
+  vendor: Apple, Inc.
+
+android320f2d54348a7ab1:
+  hide_if_away: false
+  icon:
+  mac: 5C:70:A3:0F:A6:E4
+  name: android-320f2d54348a7ab1
+  picture:
+  track: true
+  vendor: LG Electronics (Mobile Communications)
+
+hplc37:
+  hide_if_away: false
+  icon:
+  mac: 44:1C:A8:F0:85:ED
+  name: HP-L-C-37
+  picture:
+  track: true
+  vendor: Hon Hai Precision Ind. Co.,Ltd.
+
+androidfc29bb6530246616:
+  hide_if_away: false
+  icon:
+  mac: 7C:11:CB:6E:6C:1C
+  name: android-fc29bb6530246616
+  picture:
+  track: true
+  vendor: HUAWEI TECHNOLOGIES CO.,LTD
+
+hplc40:
+  hide_if_away: false
+  icon:
+  mac: 90:CD:B6:67:88:49
+  name: HP-L-C-40
+  picture:
+  track: true
+  vendor: Hon Hai Precision Ind. Co.,Ltd.
+
+iphonebrcmx:
+  hide_if_away: false
+  icon:
+  mac: D0:C5:F3:11:BF:B7
+  name: Iphone-BRC-MX
+  picture:
+  track: true
+  vendor: Apple, Inc.
+
+eva:
+  hide_if_away: false
+  icon:
+  mac: 4C:B1:99:EB:34:A0
+  name: Eva
+  picture:
+  track: true
+  vendor: Apple, Inc.
+
+hplc33:
+  hide_if_away: false
+  icon:
+  mac: 30:F7:72:60:27:2D
+  name: HP-L-C-33
+  picture:
+  track: true
+  vendor: Hon Hai Precision Ind. Co.,Ltd.
+
+iphone_2:
+  hide_if_away: false
+  icon:
+  mac: 04:4B:ED:61:D5:13
+  name: iPhone
+  picture:
+  track: true
+  vendor: Apple, Inc.
+
+sfernandez:
+  hide_if_away: false
+  icon:
+  mac: 70:18:8B:F4:0A:03
+  name: SFERNANDEZ
+  picture:
+  track: true
+  vendor: Hon Hai Precision Ind. Co.,Ltd.
+
+liellap:
+  hide_if_away: false
+  icon:
+  mac: E0:B9:A5:F6:01:F7
+  name: LielLap
+  picture:
+  track: true
+  vendor: AzureWave Technology Inc.
+
+androidbbd1784b595ad43e:
+  hide_if_away: false
+  icon:
+  mac: 88:AD:D2:39:D8:5F
+  name: android-bbd1784b595ad43e
+  picture:
+  track: true
+  vendor: Samsung Electronics Co.,Ltd
+
+hpla1:
+  hide_if_away: false
+  icon:
+  mac: 40:B8:9A:16:FF:FD
+  name: HP-L-A1
+  picture:
+  track: true
+  vendor: Hon Hai Precision Ind. Co.,Ltd.
+
+android9df90ab8f31d6411:
+  hide_if_away: false
+  icon:
+  mac: 20:2D:07:BC:A9:E9
+  name: android-9df90ab8f31d6411
+  picture:
+  track: true
+  vendor: Samsung Electronics Co.,Ltd
+
+hplc41:
+  hide_if_away: false
+  icon:
+  mac: 90:CD:B6:47:54:17
+  name: HP-L-C-41
+  picture:
+  track: true
+  vendor: Hon Hai Precision Ind. Co.,Ltd.
+
+gciacxc:
+  hide_if_away: false
+  icon:
+  mac: 28:E3:47:1D:A4:65
+  name: gciaCxC
+  picture:
+  track: true
+  vendor: Liteon Technology Corporation
+
+hplc38:
+  hide_if_away: false
+  icon:
+  mac: 44:1C:A8:F0:22:C5
+  name: HP-L-C-38
+  picture:
+  track: true
+  vendor: Hon Hai Precision Ind. Co.,Ltd.
+
+hplc36:
+  hide_if_away: false
+  icon:
+  mac: 44:1C:A8:F0:62:9F
+  name: HP-L-C-36
+  picture:
+  track: true
+  vendor: Hon Hai Precision Ind. Co.,Ltd.
+
+ipodtouch:
+  hide_if_away: false
+  icon:
+  mac: A4:31:35:CA:82:83
+  name: iPod-touch
+  picture:
+  track: true
+  vendor: Apple, Inc.
+
+iphonederobert:
+  hide_if_away: false
+  icon:
+  mac: 8C:29:37:3C:80:9F
+  name: iPhonedeRobert
+  picture:
+  track: true
+  vendor: Apple, Inc.
+
+lgtbs:
+  hide_if_away: false
+  icon:
+  mac: 34:36:3B:22:43:01
+  name: LG-TBS
+  picture:
+  track: true
+  vendor: Apple, Inc.
+
+android_2:
+  hide_if_away: false
+  icon:
+  mac: 00:7E:56:91:8B:68
+  name: android-
+  picture:
+  track: true
+  vendor: China Dragon Technology Limited
+
+iphonedeivet:
+  hide_if_away: false
+  icon:
+  mac: 08:74:02:B3:16:F6
+  name: iPhone-de-Ivet
+  picture:
+  track: true
+  vendor: Apple, Inc.
+
+android69c10393bbec6d8b:
+  hide_if_away: false
+  icon:
+  mac: 8C:18:D9:F5:92:2E
+  name: android-69c10393bbec6d8b
+  picture:
+  track: true
+  vendor: Shenzhen RF Technology Co., Ltd
+
+hplc8:
+  hide_if_away: false
+  icon:
+  mac: 10:4A:7D:A9:D9:90
+  name: HP-L-C-8
+  picture:
+  track: true
+  vendor: Intel Corporate
+
+kike:
+  hide_if_away: false
+  icon:
+  mac: 40:25:C2:CA:39:A8
+  name: KIKE
+  picture:
+  track: true
+  vendor: Intel Corporate
+
+hermannsmbp:
+  hide_if_away: false
+  icon:
+  mac: 78:31:C1:CB:B3:E6
+  name: Hermanns-MBP
+  picture:
+  track: true
+  vendor: Apple, Inc.
+
+androidc1e90d45c718136a:
+  hide_if_away: false
+  icon:
+  mac: F4:0E:22:D3:E6:77
+  name: android-c1e90d45c718136a
+  picture:
+  track: true
+  vendor: Samsung Electronics Co.,Ltd
+
+ipad:
+  hide_if_away: false
+  icon:
+  mac: 18:EE:69:C3:8C:6B
+  name: iPad
+  picture:
+  track: true
+  vendor: Apple, Inc.
+
+android97aa82fa68e5c25:
+  hide_if_away: false
+  icon:
+  mac: 0A:0B:11:22:34:2A
+  name: android-97aa82fa68e5c25
+  picture:
+  track: true
+  vendor: unknown
+
+android986c89514956676c:
+  hide_if_away: false
+  icon:
+  mac: 5C:A8:6A:74:3B:5F
+  name: android-986c89514956676c
+  picture:
+  track: true
+  vendor: HUAWEI TECHNOLOGIES CO.,LTD
+
+yacoreierssipad:
+  hide_if_away: false
+  icon:
+  mac: 70:48:0F:CD:DA:81
+  name: YACOREIERSsiPad
+  picture:
+  track: true
+  vendor: Apple, Inc.
+
+windowsphone:
+  hide_if_away: false
+  icon:
+  mac: 30:0D:43:B3:77:B0
+  name: Windows-Phone
+  picture:
+  track: true
+  vendor: Microsoft Mobile Oy
+
+hpla03:
+  hide_if_away: false
+  icon:
+  mac: 40:B8:9A:16:AF:9D
+  name: HP-L-A-03
+  picture:
+  track: true
+  vendor: Hon Hai Precision Ind. Co.,Ltd.
+
+mbpdeedgardo:
+  hide_if_away: false
+  icon:
+  mac: 98:01:A7:A7:5F:3D
+  name: MBP-de-Edgardo
+  picture:
+  track: true
+  vendor: Apple, Inc.
+
+androidf4e0fdec9f9325cb:
+  hide_if_away: false
+  icon:
+  mac: 5C:A8:6A:74:3E:5D
+  name: android-f4e0fdec9f9325cb
+  picture:
+  track: true
+  vendor: HUAWEI TECHNOLOGIES CO.,LTD
+
+androidf4f917720944eff5:
+  hide_if_away: false
+  icon:
+  mac: 88:07:4B:ED:78:36
+  name: android-f4f917720944eff5
+  picture:
+  track: true
+  vendor: LG Electronics (Mobile Communications)

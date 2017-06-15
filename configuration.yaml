@@ -1,0 +1,72 @@
+homeassistant:
+  # Name of the location where Home Assistant is running
+  name: Cesantosite
+  # Location required to calculate the time the sun rises and sets
+  latitude: 25.75
+  longitude: -100.3
+  # Impacts weather/sunrise data (altitude above sea level in meters)
+  elevation: 2489 
+  # metric for Metric, imperial for Imperial
+  unit_system: metric
+  # Pick yours from here: http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+  time_zone: America/Monterrey
+
+# Show links to resources in log and frontend
+# introduction:
+
+# Enables the frontend
+frontend:
+
+# Enables configuration UI
+config:
+
+http:
+  # Uncomment this to add a password (recommended!)
+    api_password: system01
+  # Uncomment this if you are using SSL or running in Docker etc
+    base_url: cesantoni.hass.com.mx:8123
+shell_command:
+  restart_pow: touch ~/.pow/restart.txt
+
+mqtt:
+    broker: iot.eclipse.org
+    port: 1883
+    client_id: cesanto
+    keepalive: 60
+    topic: mqttedison
+
+device_tracker:
+  - platform: aruba
+    host: 172.16.17.52
+    username: admin
+    password: system01
+
+#light:
+#  -  platform: mqtt
+#     name: principal
+#     state_topic: 'edzna/principal/light/status'
+#     command_topic: 'edzna/principal/light/switch'
+#    rgb_state_topic: 'edzna/principal/light/status'
+#     rgb_command_topic: 'edzna/principal/light/rgb/set'
+#     optimistic: true
+
+sensor:
+  -  platform: mqtt
+     name: mqttedison
+     state_topic: 'edzna/principal/luxes'
+     sensor_class: light
+
+  - platform: hp_ilo
+    host: 172.16.35.25
+    username: hp
+    password: Password!
+    monitored_variables:
+      - name: CPU fanspeed
+        sensor_type: server_health
+        unit_of_measurement: ' % '
+        value_template: '{{ ilo_data.fans["Fan 3"].speed[0] }}'
+      - name: Inlet temperature
+        sensor_type: server_health
+        unit_of_measurement: '  c '
+        value_template: '{{ ilo_data.temperature["02-CPU 1"].currentreading[0] }}'
+

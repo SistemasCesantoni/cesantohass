@@ -1,0 +1,67 @@
+homeassistant:
+  # Name of the location where Home Assistant is running
+  name: Cesantosite
+  # Location required to calculate the time the sun rises and sets
+  latitude: 25.75
+  longitude: -100.3
+  # Impacts weather/sunrise data (altitude above sea level in meters)
+  elevation: 2489 
+  # metric for Metric, imperial for Imperial
+  unit_system: metric
+  # Pick yours from here: http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+  time_zone: America/Monterrey
+
+# Show links to resources in log and frontend
+# introduction:
+
+# Enables the frontend
+frontend:
+
+# Enables configuration UI
+config:
+
+http:
+  # Uncomment this to add a password (recommended!)
+  # api_password: PASSWORD
+  # Uncomment this if you are using SSL or running in Docker etc
+    base_url: example.duckdns.org:8123
+
+shell_command:
+  restart_pow: touch ~/.pow/restart.txt
+
+sun:
+
+sensor:
+  - platform: yweather
+    monitored_conditions:
+      - weather
+      - weather_current
+      - temp_min
+      - temp_max
+      - wind_speed
+      - pressure
+      - visibility
+      - humidity
+      - temperature
+
+  - platform: systemmonitor
+    resources:
+      - type: disk_use_percent
+        arg: /home
+      - type: memory_free
+
+#  - platform: hp_ilo
+#    host: 172.16.35.25 
+#    username: hp
+#    password: Password!
+#    monitored_variables:
+#      - name: CPU fanspeed
+#        sensor_type: server_health
+#        unit_of_measurement: '%'
+#        value_template: '{{ ilo_data.fans["Fan 1"].speed[0] }}'
+#      - name: Inlet temperature
+#        sensor_type: server_health
+#        unit_of_measurement: '°C'
+#        value_template: '{{ ilo_data.temperature["01-Inlet Ambient"].currentreading[0] }}'
+#      - name: Server Health
+#        sensor_type: server_health
