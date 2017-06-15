@@ -777,3 +777,790 @@
   777  ls
   778  cd .homeassistant/
   779  history >> shell.txt
+    1  ls -la 
+    2  ./run_upgrader.sh 
+    3  sudo ./run_upgrader.sh 
+    4  chmod 777 run_upgrader.sh 
+    5  mv run_upgrader.sh /home/cesantoni/Descargas/
+    6  cp run_upgrader.sh /home/cesantoni/Descargas/
+    7  sudo cp run_upgrader.sh /home/cesantoni/Descargas/
+    8  cd 
+    9  ifconfig 
+   10  dmesg
+   11  ls
+   12  cd Descargas/
+   13  ls
+   14  ./run_upgrader.sh 
+   15  sudo ./run_upgrader.sh 
+   16  ls
+   17  cd vmware-tools-distrib/
+   18  ls
+   19  chmod 111 INSTALL 
+   20  ls
+   21  chmod 555 INSTALL 
+   22  ls
+   23  ./INSTALL 
+   24  cd installer/
+   25  ls
+   26  ./services.sh 
+   27  cd ..
+   28  ls
+   29  ls -la
+   30  sudo ./vmware-install.pl -d
+   31  sudo ./vmware-install.pl -d -y
+   32  sudo ./vmware-install.pl -y
+   33  sudo ./vmware-install.pl -d
+   34  top
+   35  clear
+   36  ls
+   37  cd bin/
+   38  l
+   39  ls
+   40  ./vmware-config-tools.pl 
+   41  sudo ./vmware-config-tools.pl 
+   42  cd -.
+   43  cd ..
+   44  ls
+   45  sudo ./INSTALL 
+   46  cd installer/
+   47  ls
+   48  sudo ./services.sh 
+   49  cd ..
+   50  ls
+   51  ifconfig
+   52  ifconfig 8.8.8.8
+   53  dmesg
+   54  ifconfig
+   55  ls
+   56  cd Descargas/
+   57  ls
+   58  rm -rf *
+   59  ls
+   60  cd /media/
+   61  ls
+   62  cd cesantoni/
+   63  ls
+   64  cp VMware\ Tools/ /home/cesantoni/Descargas/
+   65  cp VMware\ Tools/* /home/cesantoni/Descargas/
+   66  cd
+   67  cd Descargas/
+   68  ls
+   69  cd vmware-tools-distrib/
+   70  ls
+   71  sudo ./vmware-install.pl 
+   72  cd 
+   73  sudo reboot 
+   74  ifconfig
+   75  ls
+   76  ifo
+   77  ifconfig
+   78  ping 8.8.8.8
+   79  ifconfig
+   80  ping 8.8.8.8
+   81  ping 172.16.35.8
+   82  sudo apt-get update
+   83  sudo apt-get upgrade
+   84  sudo apt-get install git bison gcc g++
+   85  cd /proc/
+   86  ls
+   87  cat cpuinfo 
+   88  sudo apt-get install ssh
+   89  sudo apt-get install tightvncserver 
+   90  sudo reboot
+   91  >
+   92  sudo sh -c "echo 'deb http://download.owncloud.org/download/repositories/stable/Ubuntu_16.10/ /' > /etc/apt/sources.list.d
+   93  sudo /owncloud.list"
+   94  sudo sh -c "echo 'deb http://download.owncloud.org/download/repositories/stable/Ubuntu_16.10/ /' > /etc/apt/sources.list.d/owncloud.list"
+   95  sudo apt-get upgrade
+   96  apt-get install owncloud
+   97  sudo apt-get install owncloud
+   98  apt-get install owncloud
+   99  tightvncserver 
+  100  tightvncconnect 
+  101  tightvncconnect 172.16.15.53
+  102  ifconfig
+  103  ss
+  104  w
+  105  dmesg
+  106  sudo apt-get updare
+  107  sudo apt-get install owncloud*
+  108  sudo apt-get install owncloud
+  109  sudo apt-get install sl pdftk
+  110  df
+  111  sudo reboot
+  112  wget -nv https://download.owncloud.org/download/repositories/stable/Ubuntu_16.10/Release.key -O Release.key
+  113  apt-key add - < Release.key
+  114  wget -nv https://download.owncloud.org/download/repositories/stable/Ubuntu_16.10/Release.key -O Release.key
+  115  sh -c "echo 'deb http://download.owncloud.org/download/repositories/stable/Ubuntu_16.10/ /' > /etc/apt/sources.list.d
+  116  /owncloud.list"
+  117  sh -c "echo 'deb http://download.owncloud.org/download/repositories/stable/Ubuntu_16.10/ /' > /etc/apt/sources.list.d/owncloud.list"
+  118  apt-get update
+  119  apt-get install owncloud
+  120  sh -c "echo 'deb http://download.owncloud.org/download/repositories/stable/Ubuntu_16.10/ /' > /etc/apt/sources.list.d/owncloud.list"
+  121  apt-get update
+  122  sudo sh -c "echo 'deb http://download.owncloud.org/download/repositories/stable/Ubuntu_16.10/ /' > /etc/apt/sources.list.d/owncloud.list"
+  123  sh -c "echo 'deb http://download.owncloud.org/download/repositories/stable/Ubuntu_16.10/ /' > /etc/apt/sources.list.d/owncloud.list"
+  124  apt-get update
+  125  sudo sh -c "echo 'deb http://download.owncloud.org/download/repositories/stable/Ubuntu_16.10/ /' > /etc/apt/sources.list.d/owncloud.list"
+  126  apt-get update
+  127  apt-get install owncloudsh -c "echo 'deb http://download.owncloud.org/download/repositories/stable/Ubuntu_16.10/ /' > /etc/apt/sources.list.d/owncloud.list"
+  128  apt-get update
+  129  apt-get install owncloud
+  130  sudo apt-get install owncloud
+  131  sudo wget -nv https://download.owncloud.org/download/repositories/stable/Ubuntu_16.10/Release.key -O Release.key
+  132  sudo apt-key add - < Release.key
+  133  sudo sh -c "echo 'deb http://download.owncloud.org/download/repositories/stable/Ubuntu_16.10/ /' > /etc/apt/sources.list.d
+  134  $ hostname -I
+  135  hostname -I
+  136  sudo apt-get install lamp-server
+  137  sudo apt-get install la
+  138  sudo apt-get install php5-gd php-xml-parser php5-intl 
+  139  sudo service apache2 restart
+  140  apt install openssl
+  141  sudo apt install openssl
+  142  users
+  143  add user www
+  144  add-user www
+  145  groups
+  146  pwd
+  147  w
+  148  usradd www
+  149  sudo +useradd www
+  150  sudo useradd www
+  151  users
+  152  ls
+  153  sudo useradd www
+  154  dt
+  155  cal
+  156  cal -y
+  157  dq
+  158  bc
+  159  sudo apt-get install htop
+  160  sl
+  161  ls -m
+  162  sl -m
+  163  sl -b
+  164  ls
+  165  sl
+  166  sudo apt-get install emacs
+  167  sl
+  168  ls
+  169  sl7
+  170  sl
+  171  htop
+  172  sudo aot-get install mysql mysql-server
+  173  sudo apt-get install mysql mysql-server
+  174  sudo apt-get install mysql-server
+  175  sudo apt-get update
+  176  sudo apt-get upgrade
+  177  sudo mysql_secure_installation
+  178  sudo mysql_secure_installation 
+  179  sudo apt-get install php5-gd
+  180  sudo apt-get install si
+  181  sudo a2enmod rewrite
+  182  sudo a2enmod headers
+  183  service apache2 restart
+  184  sudo nano /etc/apache2/apache2.conf 
+  185  service apache2 restart
+  186  mysql -u root -p
+  187  a2ensite default-ssl
+  188  cd /var
+  189  ls
+  190  cd www
+  191  ls
+  192  cd html/
+  193  ls
+  194  cd ..
+  195  cd owncloud/
+  196  ls
+  197  cd config/
+  198  ls
+  199  cat config.
+  200  cat config.php
+  201  sudo nano config.php
+  202  service apache2 restart
+  203  sudo nano config.php
+  204  ls
+  205  cat config.sample.php 
+  206  ls
+  207  chmod 777 config.php 
+  208  sudo chmod 777 config.php 
+  209  ls
+  210  cd ..
+  211  ls
+  212  sudo nano public.php 
+  213  ls
+  214  nano status.php 
+  215  sudo reboot
+  216  ss
+  217  whoami
+  218  mysql --version
+  219  sudo mysql_install_db
+  220  cd /usr/share/mysql
+  221  ls
+  222  cp mv.cnf
+  223  sudo cp /etc/mysql/my.cnf /usr/share/mysql/my-default.cnf 
+  224  sudo mysql_install_db 
+  225  sudo mysql --initialize
+  226  sudo mysql --init-command
+  227  sudo service mysql start
+  228  mysqladmin  -p -u root version
+  229  sudo service mysql restart
+  230  nano /etc/apache2/sites-available/default-ssl.conf
+  231  cd /var/www/owncloud/
+  232  ls
+  233  cd config/
+  234  ls
+  235  nano config.
+  236  nano config.php 
+  237  nano config.php
+  238  cd /var/www/owncloud/config/
+  239  ls
+  240  nano config.
+  241  nano config.php 
+  242  ls
+  243  nano config.php 
+  244  nano config.php
+  245  nano config.sample.php 
+  246  nano config.php
+  247  sudo apt-get install lib32asound2
+  248  sudo reboot
+  249  ls
+  250  df4
+  251  df
+  252  cd /var/www/owncloud/
+  253  ls
+  254  htop
+  255  ls4ls
+  256  s
+  257  ls
+  258  sudo +ss
+  259  sudo ss
+  260  sudo apt-get install textlive-full textmaker
+  261  sudo apt-get install texlive-full textmaker
+  262  sudo apt-get install texlive-full texmaker
+  263  htop
+  264  ls
+  265  ls
+  266  gs
+  267  git clone git@github.com:SistemasCesantoni/CodeBarAndroid.git
+  268  ls
+  269  htop
+  270  dd
+  271  ss
+  272  sudo -ss
+  273  ls
+  274  git
+  275  git clone git@github.com:SistemasCesantoni/CodeBarAndroid.git
+  276  gpg --gen-key
+  277  sudo apt-get update
+  278  sudo apt-get upgrade
+  279  ls -ls
+  280  ls -la
+  281  cd .ssh
+  282  ls
+  283  git@github.com:SistemasCesantoni/CodeBarAndroid.git
+  284  git git@github.com:SistemasCesantoni/CodeBarAndroid.git
+  285  ssh-keygen -t rsa -b 4096 -C "hmendez@cesantoni.com.mx"
+  286  sudo apt-get install terminator
+  287  git 
+  288  git gpg --list-secret-keys --keyid-format LONG
+  289  gpg --list-secret-keys --keyid-format LONG
+  290  git clone git@github.com:SistemasCesantoni/CodeBarAndroid.git
+  291  ls
+  292  cd code
+  293  cd CodeBarAndroid/
+  294  ls
+  295  nano ejemplo.txt
+  296  git add ejemplo.txt
+  297  git commit ejemplo.txt 
+  298  git config --global user.email hmendez@cesantoni.com.mx
+  299  git config --global user.name hector adrian mendez lopez
+  300  git config --global user.name hector mendez
+  301  git-checkout -b "autorizaci√≥n de pruebas"
+  302  git checkout -b "autorizaci√≥n de pruebas"
+  303  git checkout -b "auttest"
+  304  git add ejemplo.txt 
+  305  git commit -m ejemplo.txt "este es el primer commit en la branch de autorizaci√≥n"
+  306  git commit -m ejemplo.txt
+  307  git push origin auttest ejemplo.txt
+  308  git config --global user.email hmendez@cesantoni.com.mx
+  309  git push origin auttest ejemplo.txt
+  310  htop
+  311  ping 8.8.8.8
+  312  exit
+  313  clear
+  314  ls
+  315  cd ownCloud/
+  316  ls
+  317  sl
+  318  cd Documents/
+  319  ls
+  320  cd /etc
+  321  ls
+  322  cd owncloud-client/
+  323  ls
+  324  ping 172.16.35.8
+  325  $RANDOM
+  326  sudo apt-get update
+  327  sudo apt-get upgrade
+  328  sudo apt-get install openssl
+  329  a2enmod ssl
+  330  dir = /root/SSLCertAuth
+  331  sudo dir = /root/SSLCertAuth
+  332  nano /etc/ssl/openssl.cnf 
+  333  uname -a
+  334  df
+  335  htop
+  336  ls
+  337  sl
+  338  pwd
+  339  sudo apt-get install pho7-json
+  340  cd
+  341  cd /var/www/html/owncloud/config/
+  342  ls
+  343  nano config.php 
+  344  sudo nano config.php 
+  345  sudo apt-get update
+  346  sudo apt-get upgrade
+  347  sudo apt-get update
+  348  sudo apt-get upgrade
+  349  sudo apt-get upgrade --fix-missing 
+  350  sudo apt-get update
+  351  ping 172.16.35.200
+  352  ping 172.16.35.204
+  353  ping 172.16.35.208
+  354  linkx www.cesantoni.com.mx
+  355  w3m www.cesantoni.com.mx
+  356  sudo apt-get install w3c
+  357  sudo apt-get install w3m
+  358  w3m www.cesantoni.com.mx
+  359  w3m cesantoni.com.mx
+  360  w3m www.cesantoni.com.mx
+  361  w3c 172.16.35.207:8123
+  362  w3m 172.16.35.207:8123
+  363  w3m http://172.16.35.207:8123
+  364  pip3 install homeassistant
+  365  sudo apt-get install python3-pip
+  366  sudo apt-get update
+  367  sudo apt-get upgrade
+  368  pip3 install homeassistant
+  369  pip3 install --upgrade pip
+  370  sudo apt-get update
+  371  sudo apt-get upgrade
+  372  sudo apt-get autoremove
+  373  pip3 install homeassistant
+  374  ls -la
+  375  hass --open-ui
+  376  ls -la
+  377  cd .homeassistant/
+  378  ls
+  379  hass --open-ui
+  380  hass --help
+  381  sudo apt-get install python3-pip python3-dev python3-venv
+  382  sudo apt-get install libssl-dev libxml2-dev libxslt1-dev libjpeg-dev libffi-dev libudev-dev
+  383  ls
+  384  pip install --upgrade setuptools
+  385  python3 -m venv venv
+  386  source venv/bin/activate
+  387  script/setup
+  388  hass
+  389  nano configuration.yaml 
+  390  hass
+  391  nano configuration.yaml 
+  392  hass
+  393  python3 get-pip.py
+  394  sudo apt-get install python3-yaml
+  395  python3 get-pip.py
+  396  hass
+  397  ls
+  398  nano automations.yaml 
+  399  hass -daemon
+  400  hass --daemon
+  401  mkdir 8172
+  402  ls
+  403  cp configuration.yaml 8172
+  404  ls
+  405  cd 8172/
+  406  nano configuration.yaml
+  407  hass -c 8172
+  408  cd ..
+  409  hass -c 8172
+  410  hass --daemon
+  411  cd 8172/
+  412  hass
+  413  cd ..
+  414  nano configuration.yaml
+  415  cat configuration.yaml
+  416  nano configuration.yaml
+  417  cat configuration.yaml
+  418  hass
+  419  sudo hass
+  420  hass -c
+  421  ls 
+  422  ls -la
+  423  cd deps
+  424  ls
+  425  cd ..
+  426  nano deps
+  427  cd deps/
+  428  ls
+  429  nano distro.py
+  430  cd ..
+  431  hass --config configuration.yaml 
+  432  ls
+  433  hass --script check_config
+  434  top
+  435  kill 9617
+  436  hass --script check_config
+  437  nano configuration.yaml 
+  438  kill 9617
+  439  top
+  440  kill 9917
+  441  hass --script check_config
+  442  hass
+  443  top
+  444  ifconfig
+  445  hass
+  446  cd ..
+  447  ls+
+  448  ls
+  449  ls -la
+  450  cd -h
+  451  cd .homeassistant/
+  452  ls
+  453  cd venv/
+  454  ls
+  455  cd include/
+  456  ls
+  457  cd ..
+  458  ls
+  459  ./easy_install
+  460  sudo ./easy_install
+  461  ls
+  462  cd ..
+  463  ls
+  464  cd share/
+  465  ls
+  466  cd ..
+  467  cd include/
+  468  ls
+  469  ls -la
+  470  cd .
+  471  cd ..
+  472  ls
+  473  cd ..
+  474  ls
+  475  cd tts/
+  476  ls
+  477  cd ..}
+  478  sudo apt-get install tree
+  479  tree
+  480  cd ..
+  481  tree
+  482  hass -c
+  483  cd ..
+  484  cd .homeassistant/
+  485  hass -c
+  486  hassudo apt-get install python-pip python3-dev
+  487  sudo apt-get install python-pip python3-dev
+  488  sudo pip install --upgrade virtualenv
+  489  sudo adduser --system homeassistant
+  490  sudo addgroup homeassistant
+  491  hass
+  492  sudo reboot 
+  493  ls
+  494  cat 172.16.13.169 
+  495  rm 172.16.13.169 
+  496  ls
+  497  cd .homeassistant/
+  498  ls
+  499  hass -c 8172
+  500  hass --runner
+  501  ls -la
+  502  nano configuration.yaml 
+  503  hass --runner
+  504  nano configuration.yaml 
+  505  hass --runner
+  506  nano configuration.yaml 
+  507  htop
+  508  kill 4126
+  509  nano configuration.yaml 
+  510  hass -c
+  511  hass
+  512  hass -c 8172
+  513  hass --runner
+  514  htop
+  515  kill 3788
+  516  hass --runner
+  517  history
+  518  hass --rynner
+  519  hass --runner
+  520  hass --man
+  521  hass -c 
+  522  hass -c /
+  523  hass -c 8172
+  524  hass 8172
+  525  hass -m 8172
+  526  hass -run 8172
+  527  hass -runner 8172
+  528  cd 8172/
+  529  hass --runner
+  530  hass -c 
+  531  cd ..
+  532  ls
+  533  tree
+  534  ls
+  535  cat groups.yaml 
+  536  ls
+  537  hass -c configuration.yaml 
+  538  hass -c configuration.yaml 8172
+  539  hass -c /8172/ configuration.yaml
+  540  hass -c /8172/configuration.yaml
+  541  hass -c /8172 configuration.yaml
+  542  hass -c 2 configuration.yaml
+  543  hass -c configuration.yaml
+  544  venv
+  545  sudo venv
+  546  sudo apt-get install python3-pip python3-dev python3-venv
+  547  sudo apt-get install gcc
+  548  sudo apt-get install bison c++
+  549  sudo apt-get install python4
+  550  hass.config
+  551  setup hass, config
+  552  hass, config
+  553  cd 
+  554  ls
+  555  sudo reboot
+  556  home-assistant-config
+  557  cd .homeassistant/
+  558  ls
+  559  ls -al
+  560  -/
+  561  sl
+  562  htop
+  563  df
+  564  tree /dev
+  565  q
+  566  w
+  567  whoami
+  568  df
+  569  ss
+  570  ls
+  571  hass configuration.yaml
+  572  hass
+  573  cat home-assistant
+  574  cat configuration.yaml
+  575  htop
+  576  ls
+  577  htop
+  578  sudo apt-get install nmap
+  579  sudo apt-get update
+  580  sudo apt-get upgrade
+  581  cd .homeassistant/
+  582  ls
+  583  hass configuration.yaml
+  584  hass
+  585  nano configuration.yaml
+  586  hass
+  587  nano configuration.yaml
+  588  hass
+  589  ls
+  590  ls -la
+  591  cd .homeassistant/
+  592  ls
+  593  history
+  594  ls
+  595  nano configuration.yaml
+  596  hass
+  597  nano configuration.yaml
+  598  hass
+  599  nano configuration.yaml
+  600  hass
+  601  nano configuration.yaml
+  602  hass
+  603  nano configuration.yaml
+  604  hass
+  605  homeassistant:
+  606  # Show links to resources in log and frontend
+  607  # introduction:
+  608  nano configuration.yaml
+  609  hass
+  610  cd .homeassistant/
+  611  ls
+  612  nano configuration.yaml
+  613  hass
+  614  nano configuration.yaml
+  615  hass
+  616  nano configuration.yaml
+  617  hass
+  618  nano configuration.yaml
+  619  hass
+  620  nano configuration.yaml
+  621  hass
+  622  ls -la
+  623  nano configuration.yaml
+  624  LS -LA
+  625  ls -la
+  626  hass
+  627  nano configuration.yaml
+  628  hass
+  629  sudo reboot 
+  630  cd .homeassistant/
+  631  ls
+  632  hass
+  633  nano configuration.yaml
+  634  hass
+  635  nano configuration.yaml
+  636  hass
+  637  nano configuration.yaml
+  638  hass
+  639  nano configuration.yaml
+  640  hass
+  641  nano configuration.yaml
+  642  hass
+  643  nano configuration.yaml
+  644  hass
+  645  nano configuration.yaml
+  646  hass
+  647  nano configuration.yaml
+  648  hass
+  649  nano configuration.yaml
+  650  hass
+  651  nano configuration.yaml
+  652  hass
+  653  nano configuration.yaml
+  654  hass
+  655  nano configuration.yaml
+  656  hass
+  657  nano configuration.yaml
+  658  hass
+  659  nano configuration.yaml
+  660  hass
+  661  nano configuration.yaml
+  662  hass
+  663  nano configuration.yaml
+  664  hass
+  665  nano configuration.yaml
+  666  hass
+  667  nano configuration.yaml
+  668  hass
+  669  nano configuration.yaml
+  670  hass
+  671  nano configuration.yaml
+  672  hass
+  673  nano configuration.yaml
+  674  hass
+  675  nano configuration.yaml
+  676  hass
+  677  nano configuration.yaml
+  678  hass
+  679  hread) [homeassistant.core] Bus:Handling <Event component_loaded[L]: component=websocket_api>
+  680  nano configuration.yaml
+  681  hass
+  682  nano configuration.yaml
+  683  hass
+  684  mosquitto-pub -n localhost -t test -m .Hello world!
+  685  nano configuration.yaml
+  686  hass
+  687  nano configuration.yaml
+  688  hass
+  689  nano configuration.yaml
+  690  hass
+  691  nano configuration.yaml
+  692  hass
+  693  cd .homeassistant/
+  694  ls
+  695  nano configuration.yaml
+  696  ls
+  697  cd ..
+  698  ls
+  699  cd .homeassistant/
+  700  hass
+  701  cd .homeassistant/
+  702  hass
+  703  ls
+  704  cd .homeassistant/
+  705  ls
+  706  nano configuration.yaml
+  707  hass
+  708  cd .homeassistant/
+  709  ls
+  710  nano configuration.yaml
+  711  git
+  712  cd .homeassistant/
+  713  git init
+  714  git add .
+  715  git commit -m "prueba de validaciÛn de subida de home assistant"
+  716  git remote add origin http://github.com/SistemasCesantoni/cesantohass.git
+  717  git push
+  718  git push origin master
+  719  git pull origin master
+  720  ls
+  721  git push origin master
+  722  git pull origin master
+  723  git status
+  724  cd
+  725  git@github.com:HectorMendez/Braillinox.git
+  726  git git@github.com:HectorMendez/Braillinox.git
+  727  git clone git@github.com:HectorMendez/Braillinox.git
+  728  ls
+  729  cd Braillinox/
+  730  git init
+  731  ls
+  732  ls -la
+  733  git add .
+  734  git commit -m "prueba de validaciÛn de subida de braillinox"
+  735  git remote add origin http://github.com/SistemasCesantoni/braillinox
+  736  git remote add origin http://github.com/SistemasCesantoni/braillinox.git
+  737  git remote add origin http://github.com/SistemasCesantoni/cesantohass.git
+  738  git push
+  739  git pull
+  740  git push
+  741  git push origin master
+  742* 
+  743  git push origin master
+  744  nano .git/
+  745  cd .git/
+  746  ls
+  747  vi config 
+  748  nano config 
+  749  cat config
+  750  top
+  751  htop
+  752  top | more
+  753  ls
+  754  cp config  configa
+  755  ls
+  756  nano configa
+  757  rm config
+  758  ren configa config
+  759  ls
+  760  nano configa 
+  761  ls
+  762  nano config
+  763  cd ..
+  764  ls
+  765  git push origin master
+  766  git pull origin master
+  767  git merge .
+  768  git pull -f origin master
+  769  git pull origin develop 
+  770  git pull origin master
+  771  cd .git/
+  772  ls
+  773  git pull origin develop cd..
+  774  cd ..
+  775  ls
+  776  cd ..
+  777  ls
+  778  cd .homeassistant/
+  779  history >> shell.txt
+  780  git add shell.txt
+  781  git commit -m "este es el historial de bash de tecleos"
+  782  git push origin master 
+  783  git pull origin master 
+  784  date
+  785  lol
+  786  esta es la ¥rueba de aventando codigo
+  787  history >> shell.txt
